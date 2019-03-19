@@ -1,0 +1,8 @@
+# О внесении изменений в отдельные законодательные акты Томской области
+Document type: Закон
+Number: 6-ОЗ
+Date signed: 2019-03-14
+Publication date: 2019-03-19
+Publication number: 7000201903190002
+Signing body: Томская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/7000201903190002
