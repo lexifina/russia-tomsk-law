@@ -1,0 +1,11 @@
+{
+  "path": "ru-tom",
+  "code": "RU-TOM",
+  "name": "Tomsk Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-tomsk-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
