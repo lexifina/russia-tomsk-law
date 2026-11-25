@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:58:02Z",
+ "generated": "2026-11-25T07:03:05Z",
  "latest": {
   "pravo-tomsk|russia/tomsk/acts": {
    "attempt": 1,
@@ -13,47 +13,25 @@
    },
    "census": {
     "checked": 1994,
-    "current": 1977,
+    "current": 1994,
     "gone": 0,
-    "held": 1977,
-    "newest_in_repo": "2026-09-11",
-    "pending": 17,
-    "repo": 1977,
+    "held": 1994,
+    "newest_in_repo": "2026-11-16",
+    "pending": 0,
+    "repo": 1994,
     "source_in_scope": 1994
    },
-   "check_id": "ru-pravo-tomsk-20261124T145621Z",
-   "commits": {
-    "count": 4,
-    "from": "11aa9beaaf718e7511eb9e249c6bd8eba2dfc2dc",
-    "to": "a1e7f2c5a474b270057089fdf6f59d5926104835"
-   },
+   "check_id": "ru-pravo-tomsk-20261125T064002Z",
+   "commits": null,
    "corpus": "russia/tomsk/acts",
    "error": null,
-   "finished": "2026-11-24T14:58:01Z",
+   "finished": "2026-11-25T06:40:57Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region70: 1994 law-type documents listed (every page read); 1977 held here; 17 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region70: 1994 law-type documents listed (every page read); 1994 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "7000202611050001",
-     "7000202611120001",
-     "7000202611120002",
-     "7000202611120003",
-     "7000202611120004",
-     "7000202611120005",
-     "7000202611120009",
-     "7000202611120010",
-     "7000202611120011",
-     "7000202611120012",
-     "7000202611120013",
-     "7000202611120014",
-     "7000202611160001",
-     "7000202611160004",
-     "7000202611160006",
-     "7000202611160009",
-     "7000202611160026"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -61,44 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "7000202611050001",
-     "7000202611120001",
-     "7000202611120002",
-     "7000202611120003",
-     "7000202611120004",
-     "7000202611120005",
-     "7000202611120009",
-     "7000202611120010",
-     "7000202611120011",
-     "7000202611120012",
-     "7000202611120013",
-     "7000202611120014",
-     "7000202611160001",
-     "7000202611160004",
-     "7000202611160006",
-     "7000202611160009",
-     "7000202611160026"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1994 law-type documents in block region70; newest published 2026-11-16",
    "source": "pravo-tomsk",
-   "started": "2026-11-24T14:56:21Z",
+   "started": "2026-11-25T06:40:02Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 3,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
