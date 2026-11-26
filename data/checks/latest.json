@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:03:05Z",
+ "generated": "2026-11-26T06:20:19Z",
  "latest": {
   "pravo-tomsk|russia/tomsk/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1994,
     "source_in_scope": 1994
    },
-   "check_id": "ru-pravo-tomsk-20261125T064002Z",
+   "check_id": "ru-pravo-tomsk-20261126T060306Z",
    "commits": null,
    "corpus": "russia/tomsk/acts",
    "error": null,
-   "finished": "2026-11-25T06:40:57Z",
+   "finished": "2026-11-26T06:03:59Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region70: 1994 law-type documents listed (every page read); 1994 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1994 law-type documents in block region70; newest published 2026-11-16",
    "source": "pravo-tomsk",
-   "started": "2026-11-25T06:40:02Z",
+   "started": "2026-11-26T06:03:06Z",
    "unexplained": 0,
    "update": {
     "parts": []
