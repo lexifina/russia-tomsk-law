@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Tomsk Oblast only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-26 06:03 UTC, Tomsk Oblast: Official Internet Portal of Legal Information (region70): 13 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-27 05:57 UTC, Tomsk Oblast: Official Internet Portal of Legal Information (region70): 13 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Tomsk Oblast: Official Internet Portal of Legal Information (region70)](http://publication.pravo.gov.ru/documents/block/region70) | `zakony-<year>/` | daily | 2026-11-26 06:03 UTC | no change | watched |
+| [Tomsk Oblast: Official Internet Portal of Legal Information (region70)](http://publication.pravo.gov.ru/documents/block/region70) | `zakony-<year>/` | daily | 2026-11-27 05:57 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 05:56](checks/2026-11.md#ru-pravo-tomsk-20261127t055655z) | pravo-tomsk | 13 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-26 06:03](checks/2026-11.md#ru-pravo-tomsk-20261126t060306z) | pravo-tomsk | 13 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-25 06:40](checks/2026-11.md#ru-pravo-tomsk-20261125t064002z) | pravo-tomsk | 13 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-24 14:56](checks/2026-11.md#ru-pravo-tomsk-20261124t145621z) | pravo-tomsk | 13 | 17 | 0 | 0 | 0 (0) | changes found | [4](https://github.com/lexifina/russia-tomsk-law/compare/11aa9beaaf71...a1e7f2c5a474) |
